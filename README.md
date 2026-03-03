@@ -48,6 +48,7 @@ Sono un professionista dell'informazione digitale con una forte passione per la 
 ### 📫 Contatti
 - **LinkedIn:** [https://www.linkedin.com/in/federico-montes-a24118384?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLBcf2WpyQJG5ZzomHrueyQ%3D%3D]
 - **Sito Web:** [https://staisereno.altervista.org/](https://staisereno.altervista.org/)
+- - **Email:** [federicomontes995@gmail.com]
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TUO-USERNAME-QUI&show_icons=true&theme=radical" alt="GitHub Stats" />
